@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-I/mnt/d/1file/Desktop/code/FaST/include"
+    - "-I/usr/local/cuda/include"
